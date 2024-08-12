@@ -1,0 +1,5 @@
+cupy_cuda11x==12.3.0
+numpy==1.23.5
+scipy==1.9.3
+sigpy==0.1.23
+SimpleITK==2.2.1
